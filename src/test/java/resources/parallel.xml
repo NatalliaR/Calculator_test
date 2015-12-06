@@ -1,0 +1,31 @@
+<suite name="calculator" verbose="1">
+    <test name="Summa and Subtraction tests">
+        <classes>
+            <class name="com.epam.module4.test.CalculatorTestSumSub"/>
+        </classes>
+    </test>
+
+    <test name="Multiplication and Division tests">
+        <classes>
+            <class name="com.epam.module4.test.CalculatorTestMultDiv"/>
+        </classes>
+    </test>
+
+    <test name="Power and Square root tests">
+        <classes>
+            <class name="com.epam.module4.test.CalculatorTestPowSqrt"/>
+        </classes>
+    </test>
+
+    <test name="Trigonometry tests">
+        <classes>
+            <class name="com.epam.module4.test.CalculatorTestTrigonometry"/>
+        </classes>
+    </test>
+
+    <test name="Positive and Negative tests">
+        <classes>
+            <class name="com.epam.module4.test.CalculatorTestPositiveNegative"/>
+        </classes>
+    </test>
+</suite>
