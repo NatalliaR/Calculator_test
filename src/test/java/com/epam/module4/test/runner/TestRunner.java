@@ -1,4 +1,4 @@
-package com.epam.module4.test.listenerAndRunner;
+package com.epam.module4.test.runner;
 
 import org.testng.TestListenerAdapter;
 import org.testng.TestNG;
